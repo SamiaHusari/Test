@@ -13,3 +13,7 @@ This is another nickname.
 25
 
 This is my age. 
+
+October 18
+
+That is my birthday.
