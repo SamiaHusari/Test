@@ -5,3 +5,7 @@ This is my name.
 Sousi
 
 This is my nickname.
+
+Sousou
+
+This is another nickname.
